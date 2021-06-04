@@ -13,4 +13,4 @@ The purpose of this project is to create a portfolio of CIT 281 projects and lab
 - creating user-level and project-level GitHub pages 
 - GitHub page themes, images, hyperlinks etc.
 
-### No source code for this project
+### No source code - this website is part of the project!
